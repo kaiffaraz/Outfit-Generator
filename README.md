@@ -39,10 +39,10 @@ It also displays the combinations on a **3D mannequin model** for better visuali
 
 1. Upload your shirt and pant images.  
 2. Click Generate Outfits.  
-3. The model:  
+3. The model:
   - Pairs the items to form stylish non-repetitive combinations  
   - Displays each combination with shirt + pant names  
-  - Updates mannequin colors dynamically    
+  - Updates mannequin colors dynamically 
  4. You get a complete formal outfit plan for the week 
 
 ---
