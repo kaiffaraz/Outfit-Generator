@@ -37,13 +37,13 @@ It also displays the combinations on a **3D mannequin model** for better visuali
 
 ## How It Works
 
-1.Upload your shirt and pant images.
-2.Click Generate Outfits.
-3.The model:
--> Pairs the items to form stylish non-repetitive combinations
--> Displays each combination with shirt + pant names
--> Updates mannequin colors dynamically
-4.You get a complete formal outfit plan for the week 
+- Upload your shirt and pant images.
+- Click Generate Outfits.
+- The model:
+ -> Pairs the items to form stylish non-repetitive combinations
+ -> Displays each combination with shirt + pant names
+ -> Updates mannequin colors dynamically  
+- You get a complete formal outfit plan for the week 
 
 ---
 
@@ -57,5 +57,5 @@ It also displays the combinations on a **3D mannequin model** for better visuali
 
 ## Conclusion
 
-The AI Formal Outfit Generator saves time, avoids repetitive dressing, and gives you a stylish look every day.
-It’s a perfect mix of AI + Fashion + Web Technology that enhances productivity and personal style.
+The AI Formal Outfit Generator saves time, avoids repetitive dressing, and gives you a stylish look every day.  
+ It’s a perfect mix of AI + Fashion + Web Technology that enhances productivity and personal style.
