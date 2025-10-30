@@ -6,7 +6,7 @@ It also displays the combinations on a **3D mannequin model** for better visuali
 
 ---
 
-## 🚀 Features
+## Features
 
  Upload your **shirts** and **pants** easily  
  Generates **formal outfit combinations** for 6 working days  
@@ -37,21 +37,21 @@ It also displays the combinations on a **3D mannequin model** for better visuali
 
 ## How It Works
 
-Upload your shirt and pant images
-Click Generate Outfits
-The model:
+1.Upload your shirt and pant images.
+2.Click Generate Outfits.
+3.The model:
 -> Pairs the items to form stylish non-repetitive combinations
 -> Displays each combination with shirt + pant names
 -> Updates mannequin colors dynamically
-You get a complete formal outfit plan for the week 
+4.You get a complete formal outfit plan for the week 
 
 ---
 
-##Use Case: 
+## Use Case: 
 
-Working professionals who want quick outfit suggestions
-Students preparing daily formal wear
-Anyone who wants to organize their wardrobe efficiently
+- Working professionals who want quick outfit suggestions
+- Students preparing daily formal wear
+- Anyone who wants to organize their wardrobe efficiently
 
 ---
 
